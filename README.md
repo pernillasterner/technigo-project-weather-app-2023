@@ -23,4 +23,5 @@ We split this project into 4 parts:
 
 ## View it live
 
-[Weather App](https://technigo-project-weather-app.netlify.app/)
+[Weather App](https://technigo-project-weather-app-2023.netlify.app/)
+
